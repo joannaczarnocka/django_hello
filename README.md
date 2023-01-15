@@ -20,5 +20,5 @@ open your browser at (http://localhost:8000/maths/[operation]/[number1]/[number2
 
 ### Application Greetings
 
-Open your browser at (http://localhost:8000/greetings) or (http://localhost:8000/greetings/[name])
+Open your browser at (http://localhost:8000/greetings) or (http://localhost:8000/greetings/[name]), e.g.(http://localhost:8000/greetings/john)
 
