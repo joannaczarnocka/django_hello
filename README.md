@@ -2,7 +2,7 @@
 
 ## Local
 
-To see the app running locally, change to directory dingo and run:
+To see the app running locally, change to directory dingo  containing file manage.py and run:
 
 ```sh
 python manage.py runserver
