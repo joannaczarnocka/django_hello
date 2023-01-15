@@ -9,15 +9,16 @@ python manage.py runserver
 ```
 ### Application Maths
 
-To perform <operation> where <operation> is:
+To perform [operation] where [operation] is:
 - add
 - sub
 - mul
 - div
-open your browser at (http://localhost:8000/maths/<operation>/<number1>/<number2>), e.g. (http://localhost:8000/maths/add/5/1000)
+
+open your browser at (http://localhost:8000/maths/[operation]/[number1]/[number2]), e.g. (http://localhost:8000/maths/add/5/1000)
 
 
 ### Application Greetings
 
-Open your browser at (http://localhost:8000/greetings) or (http://localhost:8000/greetings/<name>)
+Open your browser at (http://localhost:8000/greetings) or (http://localhost:8000/greetings/[name])
 
